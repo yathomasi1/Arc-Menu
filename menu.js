@@ -61,10 +61,10 @@ const Mainloop = imports.mainloop;
 const LoginManager = imports.misc.loginManager;
 
 // Menu Size variables
-const APPLICATION_ICON_SIZE = 32;
-const HORIZ_FACTOR = 5;
+const APPLICATION_ICON_SIZE = 24;
+const HORIZ_FACTOR = 6;
 const NAVIGATION_REGION_OVERSHOOT = 50;
-const MINIMUM_PADDING = 4;
+const MINIMUM_PADDING = 1;
 
 // Menu panel icon
 const menu_icon = Me.path + '/zorin-icon-symbolic.svg';
